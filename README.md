@@ -6,7 +6,7 @@ Building your shell is a critical part of your operating system! A shell typical
    - Support for running system binaries (e.g., `ls`, `cat`, `echo`).  
 
 2. **Built-in Commands**:  
-   - Implement basic shell commands like `cd`, `pwd`, `exit`, and `clear`.  
+   - Implement basic shell commands like `cd`, `pwd`, `exit`, and `clear`. 
    - These don’t invoke external programs but are directly handled by the shell.  
 
 3. **Process Management**:  
@@ -25,7 +25,7 @@ Building your shell is a critical part of your operating system! A shell typical
    - Example: `$PATH`, `export VAR=value`.  
 
 ### **Advanced Features**  
-1. **Command History**:  
+1. **Command History**:  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\done
    - Store and allow navigation through previous commands (`up`/`down` arrows).  
    - Support for `history` command to display a list of past commands.  
 
